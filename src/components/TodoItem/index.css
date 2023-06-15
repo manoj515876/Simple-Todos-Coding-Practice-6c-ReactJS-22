@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.card {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.para {
+  color: #000000;
+  font-family: Roboto;
+  font-weight: 400;
+  margin-right: 40px;
+}
+
+.delete-button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  width: 80px;
+  height: 30px;
+  font-family: Roboto;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  outline: none;
+}
